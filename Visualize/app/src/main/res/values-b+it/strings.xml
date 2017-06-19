@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">
+        Visualize
+    </string>
+    <string name="permission">
+        Per il corretto funzionamento dell\'app è necessario concedere alcuni permessi.
+    </string>
+    <string name="ok">
+        OK
+    </string>
+    <string name="perm_denied">
+        Permessi negati
+    </string>
+    <string name="perm_denied_verbose">
+        I permessi richiesti  non sono stati concessi, pertanto non sarà possibile utilizzare
+        l\'applicazione finché non verranno concessi.
+    </string>
+    <string name="perm_given">
+        Concedi
+    </string>
+    <string name="perm_setting_redirect">
+        Clicca su \'Autorizzazioni\' per modificare le impostazioni
+    </string>
+    <string name="exit">
+        Esci
+    </string>
+    <string name="perm_given_verbose">
+        Permessi concessi. Ora puoi utilizzare l\'applicazione!
+    </string>
+    <string name="synset_path">
+        synset_words_IT.txt
+    </string>
+</resources>

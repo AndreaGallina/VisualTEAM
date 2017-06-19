@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">
+        Visualize
+    </string>
+    <string name="permission">
+        You need to grant some permissions to use the application
+    </string>
+    <string name="ok">
+        OK
+    </string>
+    <string name="perm_denied">
+        Permissions denied
+    </string>
+    <string name="perm_denied_verbose">
+        The requested permissions were not granted: you will not be able to use the application
+        until they are granted.
+    </string>
+    <string name="perm_given">
+        Allow
+    </string>
+    <string name="perm_setting_redirect">
+        Click \'Permissions\' to change the settings
+    </string>
+    <string name="exit">
+        Exit
+    </string>
+    <string name="perm_given_verbose">
+        Permissions granted. You can now use the application!
+    </string>
+    <string name="synset_path">
+        synset_words_EN.txt
+    </string>
+</resources>

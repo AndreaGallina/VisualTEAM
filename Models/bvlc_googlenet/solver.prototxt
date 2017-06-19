@@ -1,0 +1,18 @@
+test_iter: 2540
+test_interval: 1020
+base_lr: 0.001
+display: 20
+average_loss: 20
+max_iter: 30400
+lr_policy: "step"
+gamma: 0.1
+momentum: 0.9
+weight_decay: 0.000001
+stepsize: 6120
+snapshot: 1020
+snapshot_prefix: "models/bvlc_googlenet/"
+solver_mode: GPU
+net: "models/bvlc_googlenet/train_val.prototxt"
+solver_type: SGD
+iter_size: 4
+# 1 epoch = 2025

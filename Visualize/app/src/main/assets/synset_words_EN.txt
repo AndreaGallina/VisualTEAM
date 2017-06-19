@@ -1,0 +1,34 @@
+n02769748 backpack
+n02818832 bed
+n02876657 bottle
+n03015254 chest of drawers
+n03057021 coat
+n03179701 desk
+n03206908 dish
+n03579538 door
+n03438257 drinking glass
+n03595614 t-shirt
+n03636248 lamp
+n03688605 long pants
+n03862676 oven
+n03918480 PC
+n04041069 radiator
+n04074963 remote
+n04107743 room light
+n04118021 carpet
+n04161981 seat
+n04256520 couch
+n04284002 spoon
+n04370048 sweater
+n04372370 switch
+n04379243 table
+n04380255 tablefork
+n04380346 tableknife
+n04401088 telephone
+n04446276 toilet
+n04453156 toothbrush
+n04550184 wardrobe
+n04553703 washbasin
+n04555897 watch
+n04587648 window
+n06277280 TV

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Here we define some recurrent values for the activity layout; in particular, the values
+ of the attributes of the TextView's that show the result of the prediction  -->
+<resources>
+    <dimen name="tv_padding_bottom">20dp</dimen>
+    <dimen name="tv_text_size">30sp</dimen>
+    <dimen name="tv_rotated_layout_height">373dp</dimen>
+    <integer name="tv_shadow_radius">10</integer>
+    <color name="tv_shadow_color">#000</color>
+    <color name="tv_text_color">#fff</color>
+</resources>

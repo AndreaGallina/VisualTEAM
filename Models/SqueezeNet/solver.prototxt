@@ -1,0 +1,15 @@
+test_iter: 650
+test_interval: 2500
+base_lr: 0.005
+display: 20
+max_iter: 9390
+lr_policy: "poly"
+power: 1.0
+momentum: 0.9
+weight_decay: 5e-05
+snapshot: 2500
+snapshot_prefix: "models/SqueezeNet/"
+solver_mode: GPU
+net: "models/SqueezeNet/train_val.prototxt"
+solver_type: SGD
+iter_size: 4
