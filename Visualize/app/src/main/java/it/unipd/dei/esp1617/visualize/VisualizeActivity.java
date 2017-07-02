@@ -358,6 +358,7 @@ public class VisualizeActivity extends Activity {
 								if (cameraAvailable) {
 									cameraAvailable = false;
 									mCamera.takePicture(ShutterCallback, null, mPicture);
+									mCamera.startPreview();
 								}
 							}
 						}
